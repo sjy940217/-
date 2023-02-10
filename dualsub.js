@@ -102,7 +102,7 @@ let default_settings = {
     Netflix: {
         type: "Google", // Google, DeepL, External, Disable
         lang: "Chinese (Traditional)",
-        sl: "ja",
+        sl: "auto",
         tl: "zn-TW",
         line: "s", // f, s
         dkey: "null", // DeepL API key
